@@ -100,11 +100,8 @@ exit()
 else:
 print("Choose correct choice")
 
-        hasil output
-        ![1.png](Gambar/1.png)
-
-        ![2.png](Gambar/2.png)
-
-        ![3.png](Gambar/3.png)
-
-        ![4.png](Gambar/4.png)
+     Hasil Output
+   ![1.png](Gambar/1.png)
+   ![2.png](Gambar/2.png)
+   ![3.png](Gambar/3.png)
+   ![4.png](Gambar/4.png)
