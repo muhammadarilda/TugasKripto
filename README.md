@@ -102,6 +102,9 @@ print("Choose correct choice")
 
         hasil output
         ![1.jpg](Gambar/1.jpg)
+
         ![2.jpg](Gambar/2.jpg)
+
         ![3.jpg](Gambar/3.jpg)
+
         ![4.jpg](Gambar/4.jpg)
