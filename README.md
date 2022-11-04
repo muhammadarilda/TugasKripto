@@ -101,10 +101,10 @@ else:
 print("Choose correct choice")
 
         hasil output
-        ![1.jpg](Gambar/1.jpg)
+        ![1.png](Gambar/1.png)
 
-        ![2.jpg](Gambar/2.jpg)
+        ![2.png](Gambar/2.png)
 
-        ![3.jpg](Gambar/3.jpg)
+        ![3.png](Gambar/3.png)
 
-        ![4.jpg](Gambar/4.jpg)
+        ![4.png](Gambar/4.png)
